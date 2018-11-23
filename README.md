@@ -1,5 +1,5 @@
 # ui-ux
-This Repository contains Proof-of-Concepts (PoCs) based on Frontend and UI-UX
+This Repository maintains Proof-of-Concepts (PoCs) based on Frontend and UI-UX
 
-#Authors
+# Authors
 @scalexlabs
